@@ -1,0 +1,47 @@
+h1 {
+    color:darkcyan
+}
+
+h2 {
+    color:darkcyan
+}
+
+h3 {
+    color: darkcyan;
+    text-align: center;
+}
+
+.navbar-light .navbar-nav .active>.nav-link {
+    text-align: end;
+}
+
+.navbar-light .navbar-brand {
+    color: rgb(248, 247, 246);
+}
+.navbar {
+    background: rgb(255, 255, 255);
+  }
+
+.navbar-brand {
+    display: inline-block;
+    padding: 12px;
+    margin-right: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 3px;
+    background-color:darkcyan;
+}
+
+body {
+    background: #f1f1f181;
+    padding: 1px;
+    margin-left:1px;
+  }
+
+.container {
+    background-color:rgb(255, 255, 255);
+}
+
+.navbar-nav .me-auto{
+    margin-right: auto!important;
+}
